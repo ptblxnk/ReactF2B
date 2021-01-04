@@ -1,6 +1,6 @@
 import React from "react";
 import UserItem from "./UserItem";
-import Spinner from "../layout/spinner.gif";
+import Spinner from "../layout/Spinner";
 import PropTypes from "prop-types";
 
 //NOT usiNG CLASS ANYMORE SO CHANGE TO A STATELESS FUNCTIONAL COMPONEN
